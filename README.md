@@ -1,6 +1,6 @@
-## Greetings!
-- 👋 Hi there, I'm Sori Lim.
-- 🏫 I'm majoring in CS at [Sungkyunkwan University](http://cs.skku.edu).
+## Greetings, all!
+- 👋 Hi there, I'm Sori Lim (caution: not sorry!).
+- 🏫 I'm currently majoring in CS at [Sungkyunkwan University](http://cs.skku.edu).
 - 📫 You can reach me via email on bio.
 
 <!---
