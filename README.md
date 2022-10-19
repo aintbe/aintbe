@@ -3,7 +3,7 @@
 - 🏫 I'm currently majoring in CS at [Sungkyunkwan University](http://cs.skku.edu).
 - 📫 You can reach me via email on bio.
 
-![My GitHub stats](https://github-readme-stats-k2so.vercel.app/api?username=aintbe&theme=vue&show_icons=true)
+![My GitHub stats](https://github-readme-stats-k2so.vercel.app/api?username=aintbe&theme=vue&show_icons=true&count_private=true)
 
 <!---
 - 👀 I’m interested in ...
