@@ -1,7 +1,7 @@
 ## Greetings, all!
 - 👋 Hi there, I'm Sori Lim (caution: not sorry!).
 - 🏫 I'm currently majoring in CS at [Sungkyunkwan University](http://cs.skku.edu).
-- 📫 You can reach me via email on bio.
+- 📫 You can reach me via aint.sorry@gmail.com.
 
 ![My GitHub stats](https://github-readme-stats-aintbe.vercel.app/api?username=aintbe&theme=vue&show_icons=true&count_private=true)
 
